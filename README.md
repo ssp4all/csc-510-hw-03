@@ -55,11 +55,36 @@ We would need the following entities:
 2. A virtual meeting rooms. For our purpose, a zoom meeting is ideal.
 3. Stable internet connection throughout the virtual meeting.
 4. Atleast 10 participants to test upon.
+5. Two google forms. 
+6. Online editor for each language.
+
+
+
+
 
 ## Observations
+
+### Ruby:
+![Ruby Pre 1](src/images/Ruby-Pre_1.png)
+![Ruby Pre 2](src/images/Ruby-Pre_2.png)
+![Ruby Post 1](src/images/Ruby-Post_1.png)
+![Ruby Post 2](src/images/Ruby-Post_2.png)
+
+None of the participants had Ruby extensively before. Around 70% of the participants rated their familarity with Ruby as 1 out 5, meanwhile only one person marked their familarity as 4 out of 5; which was the highest rated familarity reported. 
+
+It is safe to say that Ruby is obscure for most of the participants. But still, when shown a snippet of Ruby code; all of them felt debugging a Ruby code was of easy or moderate difficulty. It seems participants felt Ruby was easier to read and understand despite not using Ruby a lot prior to this.
+
+During the debugging, most of the participants were able to find all the bugs in the code, while all of them being able to find atleast one bug in it. After debugging the code, most of the participants felt more or less the same about the difficulty of debugging Ruby as when they saw the snippet of code before the test, with only one of the participant thinking it was hard.
+
+The team members who were observers during the task found that most of the participants were unable to understand what the error message was about and 
+were put-off by the way ranges work in Ruby. But except that, most of them quickly understood what was the error in the code. 
+
+
 
 
 ## Conclusions
 
 ## Threats to validity
+
+
 
