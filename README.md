@@ -65,10 +65,10 @@ We would need the following entities:
 ## Observations
 
 ### Ruby:
-![Ruby Pre 1](src/images/Ruby-Pre_1.png)
-![Ruby Pre 2](src/images/Ruby-Pre_2.png)
-![Ruby Post 1](src/images/Ruby-Post_1.png)
-![Ruby Post 2](src/images/Ruby-Post_2.png)
+![Ruby Pre 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Pre_1.PNG)
+![Ruby Pre 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Pre_2.PNG)
+![Ruby Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Post_1.PNG)
+![Ruby Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Post_2.PNG)
 
 None of the participants had Ruby extensively before. Around 70% of the participants rated their familarity with Ruby as 1 out 5, meanwhile only one person marked their familarity as 4 out of 5; which was the highest rated familarity reported. 
 
