@@ -95,8 +95,8 @@ The bugs were dependent on each other. This means if someone does not get the fi
 ### 3. No feedback on execution:
 As we used repl.it - an online IDE that allows execution of single file, every time the participant found a bug in the code, the observer had to manually point out that "You have found a bug at this point". This could've been done better by using a print statement "Correct or Incorrect" at the end of the program depending on the case.
 
-### 4. Automation of time keeping
+### 4. Automation of time keeping:
 While testing the participants, we kept manual records of the amount of time they take for each bug for all three languages. It could be easily automated by creating a log file storing execution result information for each language.
 
-### 5. No diversity in dataset
+### 5. No diversity in dataset:
 We tested a total of 10 participation, all of them pursuing Masters in Computer Science. The collected data could have some bias because of non-diverse nature of participants. A solution to this problem could be that we can perform this test on a large scale using a simple webapp which records all the required parameters.
