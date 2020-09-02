@@ -85,7 +85,7 @@ were put-off by the way ranges work in Ruby. But except that, most of them quick
 ![Go Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post-1.PNG)
 ![Go Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post_2.PNG)
 
-None of the participants had used Go as their primary language before. 7 out of 10 participants rated themselves as a Novice(1/5), only 2 of them considered them to be a bit familiar (2/5) and onl;y a solitary person marked themselves as 3/5.
+None of the participants had used Go as their primary language before. 7 out of 10 participants rated themselves as a Novice(1/5), only 2 of them considered them to be a bit familiar (2/5) and only a solitary person marked themselves as 3/5.
 
 It is safe to assume that Go was relatively obscure for most of the participants. When a snippet of Go code was shown, most of them felt debugging a Go code was of easy or moderate difficulty. However, 2 out of the 10 participants felt that it would be hard for them to debug.
 
