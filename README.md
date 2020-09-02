@@ -80,10 +80,10 @@ The team members who were observers during the task found that most of the parti
 were put-off by the way ranges work in Ruby. But except that, most of them quickly understood what was the error in the code. 
 
 ### Go:
-![Go Pre 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_1.PNG)
-![Go Pre 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_2.PNG)
-![Go Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post-1.PNG)
-![Go Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post_2.PNG)
+![Go Pre 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_1.png)
+![Go Pre 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_2.png)
+![Go Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post-1.png)
+![Go Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post_2.png)
 
 None of the participants had used Go as their primary language before. 7 out of 10 participants rated themselves as a Novice(1/5), only 2 of them considered them to be a bit familiar (2/5) and only a solitary person marked themselves as 3/5.
 
