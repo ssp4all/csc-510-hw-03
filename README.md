@@ -1,47 +1,47 @@
 # CSC 510 Software Engineering -- Homework 3 submission
 ## Method:
-### Here lies the detailed description on how to conduct tests for homework 3.
+### Here lies the detailed description on how we conducted tests for homework 3.
 
-### 1. Get people to sign up for your experiment.
-We get around 10 participants for the experiment and give them keys that they will use from here on, as a placeholder for their identity with respect to this task. 
+### 1. Got people to sign up for the experiment.
+We got 10 participants for the experiment and gave them keys that they will use from here on, as a placeholder for their for this task. 
 
-For example, they will use these keys on the forms pertaining to this experiment instead of their names or email IDs . This way they are anonymous. This gives them the power to freely participate in the test without any fear or feeling of being judged.
+For example, they used these keys on the forms pertaining to this experiment instead of their names or email IDs . This way they were anonymous. This gave them the power to freely participate in the test without any fear or feeling of being judged.
 
-### 2. Ask participants to fill the [pre-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSdFWBKKwtmoXGe220kCVoX_K859VLqQrK5XGpPASdzAoOuPww/viewform?usp=sf_link) google form.
-A `pre-debugging survey` form is a google form that aims to know more about the participants and their initial feelings about the languages used.
+### 2. Asked participants to fill the [pre-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSdFWBKKwtmoXGe220kCVoX_K859VLqQrK5XGpPASdzAoOuPww/viewform?usp=sf_link) google form.
+A `pre-debugging survey` form was a google form that aimed to know more about the participants and their initial feelings about the languages used.
 
-We first ask them about their familiarity with the respective languages. The answer for this can be used for understanding the prior knowledge of the participants; which can be used for various inferences. One of them can be that if the language was already famous with the majority of people, it may become the easiest debugged language of all given programming languages in question. Hence, such a result is less indicative of the apparent ease that comes with using that particular language but more with the participants already knowing about the language.
+We first asked them about their familiarity with the respective languages. The answer for this was used for understanding the prior knowledge of the participants; which was used for various inferences. One of them was that if the language was already famous with the majority of people, it would become the easiest debugged language of all given programming languages in question. Hence, such a result is less indicative of the apparent ease that comes with using that particular language but more with the participants already knowing about the language.
 
-Next, we can show them a famous snippet from the languages in question (for example Fibonacci or matrix multiplication) or a snippet from our `Game of Life` code and ask them their instinct about the apparent ease of debugging the language. This will aim to see what language "seems" easy to debug.
+Next, we showed them a famous snippet from the languages in question (for example Fibonacci or matrix multiplication) or a snippet from our `Game of Life` code and asked them their instinct about the apparent ease of debugging the language. This aimed to see what language "seems" easy to debug.
 
-At last, we ask them about the languages they already know. The answer would not be restricted and will include every language in the world. This can be used to find any correlation between the language that the participant may find easy to debug and the languages they already knew.
+At last, we asked them about the languages they already knew. The answer was restricted and included every language in the world. This was used to find any correlation between the language that the participant may find easy to debug and the languages they already knew.
 
 ### 3. The debugging task.
-The participants will be invited to a 30-minute zoom call, based on a mutually decided time. 
+The participants were invited to a 30-minute zoom call, based on a mutually decided time. 
 
-They will be sent the `pre-debugging survey` google form prior to the task and a `post-debugging survey` google form will be sent after the task. 
+They were sent the `pre-debugging survey` google form prior to the task and a `post-debugging survey` google form was sent after the task. 
 
-Again, the participants will be asked to conceal their identity, by any means the technology allows. For example, they can change their names before the call, and also they can talk to us via chat only and no audio.
+Again, the participants were asked to conceal their identity, by any means the technology allows. For example, they changed their names before the call, and also they spoke to us via chat only and no audio.
 
 About the task:
-1. It will be proctored by one of the group members. 
-2. The participant will be sent a link with instructions on how to access and debug the code. 
-3. The audio from the group member conducting the task will be on and they will narrate, communicate, and direct the participants about the technical aspects. 
-4. The participant will be asked to share the screen. But they can mute their audio and communicate only via chat.
-5. The participant will be aware of the number of bugs and can shift between languages however they want. 
-6. They will be free to use any resource on the internet, except for the GitHub repository of the testing group.
+1. It was proctored by one of the group members. 
+2. The participant was sent a link with instructions on how to access and debug the code. 
+3. The audio from the group member conducting the task was on and they narrated, communicated, and directed the participants about the technical aspects. 
+4. The participant were asked to share the screen. But they could mute their audio and communicate only via chat.
+5. The participant were aware of the number of bugs and could shift between languages however they wanted. 
+6. They were free to use any resource on the internet, except for the GitHub repository of the testing group.
 
-### 4. Ask participants to fill the [post-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSeaNjVP7B2jWqTIE4jHouHyiM7rJ4r7Y3KSnu1K3DbI8t2Yrw/viewform?usp=sf_link) google form.
+### 4. Asked participants to fill the [post-debugging survey](https://docs.google.com/forms/d/e/1FAIpQLSeaNjVP7B2jWqTIE4jHouHyiM7rJ4r7Y3KSnu1K3DbI8t2Yrw/viewform?usp=sf_link) google form.
 
-This survey will aim to get to know about their performance during the debugging task and their experience.
+This survey aimed to get to know about their performance during the debugging task and their experience.
 
-We first ask them about the number of bugs that they found in each language. The purpose of this is self-explanatory.
+We first asked them about the number of bugs that they found in each language. The purpose of this is self-explanatory.
 
-Next, we ask them about how their rating for each language based on the difficulty of debugging during the task. This gives us their experience with each of the languages.
+Next, we asked them about how their rating for each language based on the difficulty of debugging during the task. This gave us their experience with each of the languages.
 
-We also ask them to rank the languages based on the difficulty of debugging it. This is to get the relative difficulty of the languages with each other. This question will have an open-ended follow-up, asking them for their reasons for the rankings.
+We also asked them to rank the languages based on the difficulty of debugging it. This was to get the relative difficulty of the languages with each other. This question was an open-ended follow-up, asking them for their reasons for the rankings.
 
-At last, we ask them if they felt the code was difficult to understand because of the way the author wrote it. This question will also have an open-ended follow-up, asking them to give some suggestions on how to improve our methods of testing and coding.
+At last, we asked them if they felt the code was difficult to understand because of the way the author wrote it. This question has an open-ended follow-up, asking them to give some suggestions on how to improve our methods of testing and coding.
 
 >NOTE: The google forms will only allow you to access it if you're logged in with NCSU ID.
 
@@ -79,8 +79,19 @@ During the debugging, most of the participants were able to find all the bugs in
 The team members who were observers during the task found that most of the participants were unable to understand what the error message was about and 
 were put-off by the way ranges work in Ruby. But except that, most of them quickly understood what was the error in the code. 
 
+### Go:
+![Go Pre 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_1.PNG)
+![Go Pre 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Pre_2.PNG)
+![Go Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post-1.PNG)
+![Go Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Go-Post_2.PNG)
 
+None of the participants had used Go as their primary language before. 7 out of 10 participants rated themselves as a Novice(1/5), only 2 of them considered them to be a bit familiar (2/5) and onl;y a solitary person marked themselves as 3/5.
 
+It is safe to assume that Go was relatively obscure for most of the participants. When a snippet of Go code was shown, most of them felt debugging a Go code was of easy or moderate difficulty. However, 2 out of the 10 participants felt that it would be hard for them to debug.
+
+Most of the respondents were able to find all the bugs in the Go code. Only 1 person was unable to find a single bug in the code. This was not surprsing since most of the people felt that debugging the code would be moderate to easy. 
+
+The team members who were observers during the task found that most of the participants were unable to understand what the error message was about and  were put-off by some syntax nuances of Go. But except that, most of them quickly understood what was the error in the code. 
 
 ## Conclusions
 
