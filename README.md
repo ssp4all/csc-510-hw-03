@@ -115,6 +115,6 @@ We tested a total of 10 participation, all of them pursuing Masters in Computer 
 ### 6. The code written by the author is not representative of a code written by a regular user.
 The authors of these codes were also new to these languages. Although they do had more time to write it and to test it; a "good" code in a particular language will most probably come from a person who had more experience in that particular language. 
 
-![Validity 6](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Validity_6.png)
+![Validity 6](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Validity_6.PNG)
 
 Here, we see that 2/10 people thought that the author could have structured the code better, so this threat to validity is not that far off.
