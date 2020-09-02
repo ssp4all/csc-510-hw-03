@@ -74,7 +74,7 @@ None of the participants had Ruby extensively before. Around 70% of the particip
 
 It is safe to say that Ruby is obscure for most of the participants. But still, when shown a snippet of Ruby code; all of them felt debugging a Ruby code was of easy or moderate difficulty. It seems participants felt Ruby was easier to read and understand despite not using Ruby a lot prior to this.
 
-During the debugging, most of the participants were able to find all the bugs in the code, while all of them being able to find atleast one bug in it. After debugging the code, most of the participants felt more or less the same about the difficulty of debugging Ruby as when they saw the snippet of code before the test, with only one of the participant thinking it was hard.
+During the debugging, most of the participants were able to find all the bugs in the code, while all of them being able to find atleast one bug in it. But after debugging the code, there was a significant shift in their opinion regarding the difficulty of debugging this code. While the people finding Ruby "easy" dropped from 60% to 30%, while 60% of the participants now found the code to be of moderate difficulty, which is jump up from 40%, with only one of the participant thinking it was hard. Previously, no one had felt it was hard.
 
 The team members who were observers during the task found that most of the participants were unable to understand what the error message was about and 
 were put-off by the way ranges work in Ruby. But except that, most of them quickly understood what was the error in the code. 
@@ -111,3 +111,10 @@ While testing the participants, we kept manual records of the amount of time the
 
 ### 5. No diversity in dataset:
 We tested a total of 10 participation, all of them pursuing Masters in Computer Science. The collected data could have some bias because of non-diverse nature of participants. A solution to this problem could be that we can perform this test on a large scale using a simple webapp which records all the required parameters.
+
+### 6. The code written by the author is not representative of a code written by a regular user.
+The authors of these codes were also new to these languages. Although they do had more time to write it and to test it; a "good" code in a particular language will most probably come from a person who had more experience in that particular language. 
+
+![Validity 6](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Validity_6.png)
+
+Here, we see that 2/10 people thought that the author could have structured the code better, so this threat to validity is not that far off.
