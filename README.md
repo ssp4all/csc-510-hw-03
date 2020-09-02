@@ -100,8 +100,3 @@ While testing the participants, we kept manual records of the amount of time the
 
 ### 5. No diversity in dataset
 We tested a total of 10 participation, all of them pursuing Masters in Computer Science. The collected data could have some bias because of non-diverse nature of participants. A solution to this problem could be that we can perform this test on a large scale using a simple webapp which records all the required parameters.
-
-
-
-
-
