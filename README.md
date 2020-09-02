@@ -112,7 +112,7 @@ While testing the participants, we kept manual records of the amount of time the
 ### 5. No diversity in dataset:
 We tested a total of 10 participation, all of them pursuing Masters in Computer Science. The collected data could have some bias because of non-diverse nature of participants. A solution to this problem could be that we can perform this test on a large scale using a simple webapp which records all the required parameters.
 
-### 6. The code written by the author is not representative of a code written by a regular user.
+### 6. The code is not written by a regular user of that language.
 The authors of these codes were also new to these languages. Although they do had more time to write it and to test it; a "good" code in a particular language will most probably come from a person who had more experience in that particular language. 
 
 ![Validity 6](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Validity_6.PNG)
