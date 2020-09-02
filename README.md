@@ -85,6 +85,13 @@ were put-off by the way ranges work in Ruby. But except that, most of them quick
 ## Conclusions
 
 ## Threats to validity
+- Manual Time Keeping 
+    - Due to tight schedule we were unable to automate time keeping which user spend debugging code in different languages.
 
+- Inconsistent Bugs
+    - Bugs across three languages were mix of logical and syntax errors.
+
+- Lack of big dataset
+    - A total of 10 participants gave our test so there might be chance of bias which can be easily overcome if we would have used a larger userbase.
 
 
