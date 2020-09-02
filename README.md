@@ -93,7 +93,7 @@ Much of the feedback we received was that there were too many bugs. We were aski
 The bugs were dependent on each other. This means if someone does not get the first bug it means they would also won't find all of the next. If this is true for most of the people, the data would be invalid. Also, there were inconsistencies in the type of bugs(syntax / logical) across all 3 languages.
 
 ### 3. No feedback on execution:
-As we were using repl.it which is an online IDE that allows execution of single file, every time the participant found a bug in the code, the observer had to manually point out that "You have found a bug at this point". This could have been done better by using a print statement "Correct or Incorrect" at the end of the program depending on the case.
+As we were using repl.it which is an online IDE that allows execution of single file, every time the participant found a bug in the code, the observer had to manually point out that "You have found a bug at this point". This could've been done better by using a print statement "Correct or Incorrect" at the end of the program depending on the case.
 
 ### 4. Automation of time keeping
 While testing the participants, we kept manual records of the amount of time they take for each bug for all three languages. It could be easily automated by creating a log file storing execution result information for each language.
