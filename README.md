@@ -113,16 +113,16 @@ The average mean ranking of Ruby, Julia, and Go were 1.8, 2.0, and 1.7 respectiv
 
 ## Conclusions
 
-### Conclusion for Ruby: 
+### Ruby: 
 The Ruby code seemed "easy to moderate" for people to debug as they found it similar to Python. All participants except one rated it either the easiest or the second easiest language to debug out of the three.
 
-### Conclusion for Go: 
+### Go: 
 The code in Go was rated similarly to Ruby. Go was rated "easy to moderate" in our dataset for various interesting reasons, which varied from the previous familiarity for the language to finding bugs in Go to be easier than others.
 
-### Conclusion for Julia: 
+### Julia: 
 We can conclude that the debugging code in Julia was mostly "moderate", but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
 
-### Average Ranking of Languages
+### Average and relative ranking of the languages:
 
 At the end of our survey, we asked the participant to rank the languages based on the difficulty level of( 1, 2, 3). 1 being the easiest of the three languages and 3 being the most difficult of the three. We found that Go was perceived to be the easiest, while Julia was voted as most difficult from the 3. Although the discrete ranking suggests this, we do not see any stark difference between the results, the average ranking, was 1.7 for GO, 1.8 for Ruby, and 2.0 for Julia. In the end, we want to conclude that we need more data as the current data gives no significant result.
  
