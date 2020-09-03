@@ -114,6 +114,10 @@ After the experiment, we could see a shift of opinion when they were asked to ra
 
 ### Conclusion for Julia: 
 We can conclude that debugging code in Julia was mostly modertate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
+
+### Average Ranking of Languages
+
+At the end of our survey, we asked the participant to rank the languages based on the difficulty level of( 1 ,2, 3). 1 being easiest of the three languages and 3 being most difficult of the three. We found that Go was perceived to be the easist, while Julia was voted as most difficult from the 3. Although the discrete ranking suggest this we do nat see a stark difference between the results, the aveagre if ranking, was 1.7 for GO, 1.8 for Ruby and 2.0 for Julia.
  
  
 ## Threats to validity
