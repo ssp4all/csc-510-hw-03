@@ -3,7 +3,7 @@
 ### Here lies the detailed description on how we conducted tests for homework 3.
 
 ### 1. Got people to sign up for the experiment.
-We got 10 participants for the experiment and gave them keys that they will use from here on, as a placeholder for their for this task. 
+We got 10 participants for the experiment and gave them keys that they will use from here on, as a placeholder for their identity for this task. 
 
 For example, they used these keys on the forms pertaining to this experiment instead of their names or email IDs. This way they were anonymous. This gave them the power to freely participate in the test without any fear or feeling of being judged.
 
@@ -70,7 +70,7 @@ We would need the following entities:
 ![Ruby Post 1](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Post_1.PNG)
 ![Ruby Post 2](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Ruby-Post_2.PNG)
 
-None of the participants had Ruby extensively before. Around 70% of the participants rated their familiarity with Ruby as 1 out 5, meanwhile only one person marked their familiarity as 4 out of 5; which was the highest-rated familiarity reported. 
+None of the participants had used Ruby extensively before. Around 70% of the participants rated their familiarity with Ruby as 1 out 5, meanwhile only one person marked their familiarity as 4 out of 5; which was the highest-rated familiarity reported. 
 
 It is safe to say that Ruby is obscure for most of the participants. But still, when shown a snippet of Ruby code; all of them felt debugging a Ruby code was of easy or moderate difficulty. It seems participants felt Ruby was easier to read and understand despite not using Ruby a lot prior to this.
 
@@ -102,11 +102,11 @@ The team members who were observers during the task found that most of the parti
 
 Only one person said that he had seen Julia code earlier, all other participants had never read or written code in Julia. So we can say that for all participants, finding bugs in Julia was a new experience. We also tend to think that due to less familiarity debugging in Julia might be difficult. 
 
-A code snippet of Julia was shown to them before their debugging task and they were asked to predict the difficulty level they will face in the experiment. 90% of people felt the difficulty might be moderate to Hard. Only 1 person felt the difficulty would be very easy.
+A code snippet of Julia was shown to them before their debugging task and they were asked to predict the difficulty level they will face in the experiment. 90% of people felt the difficulty might be easy to moderate. Only 1 person felt the difficulty would be hard.
 
 70% of the participants were able to successfully debug all the bugs in the experiment. While a single participant(10%) wasn't able to find a single bug in the allotted time. 
 
-After the experiment, we could see a shift of opinion when they were asked to rate the difficulty level again. 40% felt the task was very easy to easy as contrary to 10% before the experiment and 60% felt it to be moderate to hard, down from 90% before the experiment. 
+After the experiment, we could see a shift of opinion when they were asked to rate the difficulty level again. 40% felt the task was very easy to easy as contrary to 30% before the experiment and 60% felt it to be moderate to hard, down from 70% before the experiment. 
 
 ### Comparison between all languages in the experiment:
 The average mean ranking of Ruby, Julia, and Go were 1.8, 2.0, and 1.7 respectively. The mode for all of the three languages was 2. It was noted that people reasoned their ranking because they were able to relate a language with a language they were familiar with. For example, Ruby and Julia were pointed out to have a similar syntax to Python. Also, some of the people were familiar with some of the languages as they had themselves wrote the Game of Life code for their team in that language.
@@ -114,13 +114,13 @@ The average mean ranking of Ruby, Julia, and Go were 1.8, 2.0, and 1.7 respectiv
 ## Conclusions
 
 ### Conclusion for Ruby: 
-The Ruby code seemed easy to moderate for people to debug as they found it similar to Python. All participants except one rated it either the easiest or the second easiest language to debug out of the three.
+The Ruby code seemed "easy to moderate" for people to debug as they found it similar to Python. All participants except one rated it either the easiest or the second easiest language to debug out of the three.
 
 ### Conclusion for Go: 
-The code in Go was rated similarly to Ruby. Go was rated easy to moderate in our dataset for various interesting reasons, which varied from the previous familiarity for the language to finding bugs in Go to be easier than others.
+The code in Go was rated similarly to Ruby. Go was rated "easy to moderate" in our dataset for various interesting reasons, which varied from the previous familiarity for the language to finding bugs in Go to be easier than others.
 
 ### Conclusion for Julia: 
-We can conclude that the debugging code in Julia was mostly moderate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
+We can conclude that the debugging code in Julia was mostly "moderate", but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
 
 ### Average Ranking of Languages
 
@@ -133,7 +133,7 @@ At the end of our survey, we asked the participant to rank the languages based o
 Much of the feedback we received was that there were too many bugs. We were asking them to find 9 bugs in 30 minutes, which we later understood was too many.
 
 ### 2. The dependency of bugs:
-The bugs were dependent on each other. This means if someone does not get the first bug it means they would also not find all of the next. If this is true for most people, the data would be invalid. Also, there were inconsistencies in the type of bugs(syntax / logical) across all 3 languages.
+The bugs were dependent on each other. This means if someone does not get the first bug it means they would also not find all of the next. If this is true for most people, the data would be invalid. Also, there were inconsistencies in the type of bugs (syntax / logical) across all 3 languages.
 
 ### 3. No feedback on execution:
 As we used repl.it - an online IDE that allows execution of a single file, every time the participant found a bug in the code, the observer had to manually point out that "You have found a bug at this point". This could've been done better by using a print statement "Correct or Incorrect" at the end of the program depending on the case.
@@ -141,11 +141,11 @@ As we used repl.it - an online IDE that allows execution of a single file, every
 ### 4. Automation of timekeeping:
 While testing the participants, we kept manual records of the amount of time they take for each bug for all three languages. It could be easily automated by creating a log file storing execution result information for each language.
 
-### 5. No diversity in the dataset:
+### 5. Lack of diversity in the dataset:
 We tested a total of 10 participants, all of them pursuing Masters in Computer Science. The collected data could have some bias because of the non-diverse nature of participants. A solution to this problem could be that we can perform this test on a large scale using a simple web app that records all the required parameters.
 
 ### 6. The code is not written by a regular user of that language.
-The authors of these codes were also new to these languages. Although they do have more time to write it and to test it; a "good" code in a particular language will most probably come from a person who had more experience in that particular language. 
+The authors of these codes were also new to these languages. Although they did had more time to write it and to test it; a "good" code in a particular language will most probably come from a person who had more experience in that particular language. 
 
 ![Validity 6](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/Validity_6.PNG)
 
