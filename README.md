@@ -112,7 +112,7 @@ After the experiment, we could see a shift of opinion when they were asked to ra
 
 ## Conclusions
 
-Conclusionfor Julia:
+### Conclusionfor Julia: 
 We can conclude that debugging code in Julia was mostly modertate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
  
  
