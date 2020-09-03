@@ -109,10 +109,13 @@ A code snippet of Julia was shown to thm before their debugging task and they we
 
 After the experiment, we could see a shift of opinion when they were asked to rate the difficulty level again. 40% felt the task was very easy to easy as contrary to 10% before experiment and 60% felt it to be moderate to hard, down from 90% before the experiment. 
 
-We can conclude that debugging code in Julia was mostly modertate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
 
 ## Conclusions
 
+Conclusionfor Julia:
+We can conclude that debugging code in Julia was mostly modertate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
+ 
+ 
 ## Threats to validity
 
 ### 1. Too many bugs:
