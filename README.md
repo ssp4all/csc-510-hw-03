@@ -101,14 +101,15 @@ The team members who were observers during the task found that most of the parti
 ![julia debugging difficulty](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/julia_debugging_difficulty.png)
 ![julia no of bugs](https://github.com/ssp4all/csc-510-hw-03/blob/master/src/images/julia_no_of_bugs.png)
 
-None of the participants had Ruby extensively before. Around 70% of the participants rated their familarity with Ruby as 1 out 5, meanwhile only one person marked their familarity as 4 out of 5; which was the highest rated familarity reported. 
+Only one person said that he had seen Julia code earlier, all other participants had never read or written code in Julia. So we can say that for all participants, finding bugs in Julia was a new experience. We also tend to think that due to less familiarity debugging in Julia might be difficult. 
 
-It is safe to say that Ruby is obscure for most of the participants. But still, when shown a snippet of Ruby code; all of them felt debugging a Ruby code was of easy or moderate difficulty. It seems participants felt Ruby was easier to read and understand despite not using Ruby a lot prior to this.
+A code snippet of Julia was shown to thm before their debugging task and they were asked to predict the difficulty level they will face in the experiment. 90% people felt the difficulty might be modetrate to Hard. Only 1 person felt the difficulty would be very easy.
 
-During the debugging, most of the participants were able to find all the bugs in the code, while all of them being able to find atleast one bug in it. But after debugging the code, there was a significant shift in their opinion regarding the difficulty of debugging this code. While the people finding Ruby "easy" dropped from 60% to 30%, while 60% of the participants now found the code to be of moderate difficulty, which is jump up from 40%, with only one of the participant thinking it was hard. Previously, no one had felt it was hard.
+70% of the participants were able to successfully debig all the bugs in the experiment. While a single participant(10%) wasnt able to find a single bug in the alloted time. 
 
-The team members who were observers during the task found that most of the participants were unable to understand what the error message was about and 
-were put-off by the way ranges work in Ruby. But except that, most of them quickly understood what was the error in the code. 
+After the experiment, we could see a shift of opinion when they were asked to rate the difficulty level again. 40% felt the task was very easy to easy as contrary to 10% before experiment and 60% felt it to be moderate to hard, down from 90% before the experiment. 
+
+We can conclude that debugging code in Julia was mostly modertate, but people were able to understand and pick up the language in less time. Most people had never read code in Julia but were able to successfully complete the experiment.
 
 ## Conclusions
 
